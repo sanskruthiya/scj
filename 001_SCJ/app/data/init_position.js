@@ -1,0 +1,1 @@
+const init_position = [-0.8859, 3.2176];//SCJ
